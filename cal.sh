@@ -10,5 +10,5 @@ m x n = mn
 
 #percentage
 
-m % n = n
+
 #division 
