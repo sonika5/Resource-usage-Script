@@ -9,3 +9,6 @@ m x n = mn
 #multiplication
 
 #percentage
+
+m % n = n
+#division 
