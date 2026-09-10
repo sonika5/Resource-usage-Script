@@ -10,5 +10,6 @@ m x n = mn
 
 #percentage
 
+#division
 
-#division 
+#root
