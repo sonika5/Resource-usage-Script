@@ -8,3 +8,4 @@ t= q - s
 m x n = mn
 #multiplication
 
+#percentage
