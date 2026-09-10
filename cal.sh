@@ -5,3 +5,6 @@ x = a+b
 t= q - s
 #substraction
 
+m x n = mn
+#multiplication
+
